@@ -1,0 +1,22 @@
+Various commands for lab4
+
+#information about the ros bag
+
+1) rosbag info <bagname>
+
+path:        grid.bag
+version:     2.0
+duration:    0.0s
+start:       Apr 14 2015 19:09:55.46 (1429052995.46)
+end:         Apr 14 2015 19:09:55.46 (1429052995.46)
+size:        26.9 KB
+messages:    178
+compression: none [1/1 chunks]
+types:       lab3/Motion      [720b0c53a7b95aaae8783915252c8f0d]
+             lab3/Observation [b962468f892f707011ae231ec4acdeb5]
+topics:      Movements      89 msgs    : lab3/Motion     
+             Observations   89 msgs    : lab3/Observation
+
+
+2) rosbag play <bagname>
+
