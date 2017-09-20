@@ -11,11 +11,11 @@ Demo program to get familiarized with ROS and how to control a Turtlebot robot v
 ### Lab 2
 Simulated RANSAC algorithm in ROS.
 
-### Convolution, Edge Detection and Corner Detection
+### Lab 3 - Convolution, Edge Detection and Corner Detection
 Accomplished with MATLAB.
 
-### Bayes Filter
+### Lab 4 - Bayes Filter
 Simulated how Bayes filter is crucial in localization of the robot in the real world.
 
-### A Star Algorithm
+### Lab 5 - A-Star Algorithm
 Simulated the popular short path finding algorithm with obstacles included.
